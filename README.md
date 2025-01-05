@@ -1,6 +1,3 @@
-
-
-# NovaNet: Next-Generation Vision System
 # **NovaNet: Comprehensive Vision System Concept**
 
 ## **Introduction**
